@@ -14,6 +14,6 @@ You'll need to create the html file and connect all the javascript files you nee
 
 You can choose to use flexbox, grid, and/or css libraries for styling your site. Keep in mind, however, that the priority for this assignment is the data, not the styling, so spend your time accordingly.
 
-Your site should look like the following screenshot:
+Your site should look like the following screenshot with individual customers visible in a grid. You can apply your own css style choices, but getting the info on the page is first priority:
 
 ![example screenshot](customer-db.png)
